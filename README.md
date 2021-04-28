@@ -26,3 +26,5 @@ Add the following to pom.xml:
 # Sample code
 Millionaire millionaire = new Millionaire();
 System.out.println(millionaire.howToBecomeRich());
+
+Calculator c = new Calculator();
