@@ -1,7 +1,7 @@
 # maven-service
 program utility service
 
-Usage
+# Usage
 Add the following to pom.xml:
 <project ...>
 ...
@@ -23,6 +23,6 @@ Add the following to pom.xml:
 ...
 </project>
 
-Sample code
+# Sample code
 Millionaire millionaire = new Millionaire();
 System.out.println(millionaire.howToBecomeRich());
